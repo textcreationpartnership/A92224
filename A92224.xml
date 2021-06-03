@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for encouraging the bringing water to the cities of London and Westminster</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92224</idno><idno type="EEBO-CITATION">99899804</idno>
+  <idno type="VID">136159</idno>
+  <idno type="EEBO-PROQUEST">2240852598</idno>
+  
+            <idno type="STC">Wing R491</idno>
+            <idno type="STC">ESTC T170036</idno>
+            <idno type="PROQUEST">99899804</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99899804e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92224)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 136159)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2447:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for encouraging the bringing water to the cities of London and Westminster</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1721?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The act for bringing water to London was passed in 1721.</note>
+                  <note>Wing CD-ROM, 1996 gives 1700? as approximate date of publication.</note>
+                  <note>Reproduction of original in the Lambeth Palace Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Water consumption --  England --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  Social conditions --  Early works to 1800.</term>
+               <term type="geographic_name">Westminster (London, England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:136159:1"/>
+            <head>REASONS For Encouraging the Bringing Water to the Cities of <hi>London</hi> and <hi>Westminster.</hi>
+            </head>
+            <p>THAT Plenty of good and wholesom Water is very useful and beneficial to great and populous Cities, not only for the ordinary Occasions of the Inhabitants, but in Cases of Fire, and Pestilential Diseases, must be allowed by every Body.</p>
+            <p>And it is notoriously known, that by Reason of the great Increase of Building in and about the Cities of <hi>London</hi> and <hi>Westminster</hi> for many Years last past, the Inhabitants thereof are in great Want of Water <hi>even for their ordinary Occasions:</hi> And <hi>in Case of Fire,</hi> there has hardly any One of late happen'd, when the Pipes (belonging to the <hi>New-River</hi> and other Companies that now serve the Town with Water) have not been broke up, and <hi>found empty;</hi> and consequently <hi>useless</hi> towards the extinguishing thereof.</p>
+            <p>So that no Reason can be <hi>fairly</hi> offered against bringing greater Quantities of Water to the Cities of <hi>London</hi> and <hi>Westminster</hi> than they now have, except that the Means for ef<g ref="char:EOLhyphen"/>fecting the same will do more Mischief to the Country, than the Water will do Good to the Town.</p>
+            <p>
+               <hi>Which cannot happen in this Case;</hi> for no other Damage will be done to the Coun<g ref="char:EOLhyphen"/>try, than the taking away the Water from one Paper and Leather-Mill only, and the Owners <hi>thereof,</hi> as also his Grace the Duke of <hi>Somerset,</hi> through whose Manor the Water is propos'd to be brought a great Part of the Way, and other the Proprietors of any Lands, <hi>&amp;c.</hi> through which this Water is proposed to be brought, will have full Satisfaction from the Adventurers for any Loss or Damage which they may sustain thereby, <hi>before the Work will be allowed to be proceeded upon.</hi>
+            </p>
+            <p>
+               <hi>Note,</hi> That especial Care will be taken that his Majesties Royal Palace of <hi>Hampton-Court,</hi> as also that of St. <hi>James</hi>'s, shall be <hi>hereby</hi> better supplied with Water than now they are: And that the Mills upon the <hi>Old Cut</hi> or <hi>Thistleworth-River,</hi> belonging to his Grace the Duke of <hi>Somerset,</hi> and the Mills upon <hi>Stanwell-Stream</hi> shall be still supplied with as much, or more Water, as they now have.</p>
+            <p>And therefore as no Persons will be injured by this Undertaking, or have any just Cause of Complaint against it, it's humbly hoped all reasonable Encouragement will be given thereto, and that no Endeavours of the <hi>New-River</hi> Company, or other Persons concerned in the Waters already brought to <hi>London,</hi> shall hinder or obstruct a Work at this Time so much wanted, and so greatly beneficial to the Publick.</p>
+            <p>☞ And to prevent any ill or fraudulent Use being made by pretending to put such <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Design in Execution without ever effectually carrying it on, the following Clause is in <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Petition, and one of the same Nature is intended to be in the Act; <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>And to prevent all sinister and ill Uses to be made by incorporating of a Company for these Purposes, the present Undertakers are desirous that such Company, and all <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> thereof, shall be restrained from assigning or making over any of their Property <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 'till such Water shall be brought into the intended Grand Reservoir in</hi> Marybone <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>And that they shall not apply any Money that shall be paid in for these Purpose to <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> other Use whatsoever.</hi>
+            </p>
+         </div>
+         <div type="explication">
+            <pb facs="tcp:136159:2"/>
+            <head>The <hi>EXPLANATION</hi> of the above PLAN.</head>
+            <p>'TIS Proposed to have Liberty to make Use of the Rivers or Streams that run through or by a Village called <hi>Drayton,</hi> in the County of <hi>Middlesex,</hi> after they are fallen below the Mills there; and to turn them (from some Part of the Stream or River that runs above 100 Yards below the Mills) into that <hi>Old Cut</hi> or <hi>River</hi> which now serves and supplies his Grace the Duke of <hi>Somerset</hi>'s Powder-Mills on <hi>Hounslow-Heath,</hi> and afterwards runs down, and empties it self into the <hi>Thames</hi> at his Grace's Corn-Mill at <hi>Thistleworth;</hi> as also to make a Cut from <hi>Cowley-Stream</hi> (somewhere near <hi>Drayton</hi>) into this <hi>Old Cut,</hi> or <hi>Thistleworth-River</hi> directly; and from that <hi>Old Cut</hi> the Water is to be brought into a Grand Reservoir to be made in some Part of <hi>Marybone-Fields,</hi> from whence any Parts of <hi>London</hi> and <hi>Westminster</hi> may be served very plentifully with Water.</p>
+            <p>
+               <hi>N. B.</hi> There are two Rivers or Streams that branch out of the River <hi>Colne;</hi> one of which supplies and works <hi>Drayton</hi>-Mills, and the other supplies and works the Mills at a Village called <hi>Cowley.</hi> These two Streams unite just below <hi>Drayton</hi>-Mills Tail, and in about 300 or 400 Yards divide again into three Streams or Rivers; one of which may be called the <hi>Heatham-Stream;</hi> one other the <hi>Stanwell-Stream;</hi> (out of which is taken the <hi>New Cut</hi> that runs down to <hi>Hampton-Court,</hi> upon which stands no Millat all;) and the other the <hi>Old Cut</hi> or <hi>Thistleworth-River.</hi>
+            </p>
+            <p>On the <hi>Heatham-Stream</hi> stands only one Paper and Leather-Mill, at a Village call <hi>Poyle,</hi> before it returns back again into the River <hi>Colne</hi> a little below <hi>Colne-Brook;</hi> on <hi>Stanwell-Stream</hi> are two Paper-Mills (one of which is not in Use) and three Corn-Mills, and on the <hi>Old</hi> or <hi>Thistleworth-River</hi> are his Grace the Duke of <hi>Somerset</hi>'s Powder-Mills, Logwood-Mill and his Corn-Mill at <hi>Thistleworth.</hi>
+            </p>
+            <p>
+               <hi>The Design is,</hi> to draw off the Water of the <hi>Heatham-Stream</hi> (on which only star<gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> the Paper and Leather-Mill at <hi>Poyle</hi>) into the <hi>Old</hi> or <hi>Thistleworth-Cut</hi> or <hi>River,</hi> and <hi>Th<gap reason="illegible" resp="#murp" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> being to be brought by the Mouth of the <hi>Stanwell-Stream,</hi> it is Proposed, that full <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> much Water, if not more than now does, shall always be allowed to go down <hi>that Stream</hi> for the Use of the Mills that are upon it: And as to his Grace the Duke of <hi>Somer<g ref="char:EOLhyphen"/>set</hi>'s Mills, which stand upon this <hi>Old Cut,</hi> they will, by the great additional Water that will be drawn into it from the <hi>Heatham-Stream,</hi> easily be supplied with much greater Quan<g ref="char:EOLhyphen"/>tities of Water than they now have, and may be furnish'd with almost any Quantity as Occasion shall require.</p>
+            <p>And as to the <hi>New Cut</hi> that goes down to <hi>Hampton-Court;</hi> it is proposed, on some Place on <hi>Hounslow</hi>-Heath, where these <hi>Old</hi> and <hi>New Cuts</hi> do not run above forty Yards asun<g ref="char:EOLhyphen"/>der, to lay Pipes, from the One into the Other, of a Bore sufficient to convey more Wa<g ref="char:EOLhyphen"/>ter out of the <hi>Old</hi> into the <hi>New Cut,</hi> than it now brings down from <hi>Longford;</hi> which will not only save the Charge and Trouble of keeping a long Chanel constantly cleansed and scowred, but by its receiving the Water so much nearer Home, and from so great a Body as will be contained in this <hi>Old Cut</hi> (when enlarged as intended) it will run down with much greater Spirit and Quickness than it now does, and consequently will be of greater Use at <hi>Hampton-Court</hi> for a great many Purposes.</p>
+            <p>So that no other Mischief will be done to the Country, than only taking away the <hi>Heatham</hi>-Stream from the Paper and Leather-Mill at <hi>Poyle:</hi>
+            </p>
+            <p>And all other Places situated near the Water intended to be made Use of, will, as well <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>London</hi> and <hi>Westminster,</hi> reap the Benefit thereby.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
